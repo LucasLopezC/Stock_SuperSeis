@@ -28,7 +28,7 @@ Los datos utilizados provienen de varios datasets descargados de Kaggle, los cua
 Para acceder y trabajar con este proyecto, necesitas:
 
 1. Tener Power BI Desktop instalado.
-2. Descargar los datasets desde Kaggle (detallado en el archivo `datos.md`).
+2. Descargar los datasets desde Kaggle: [Dataset](https://www.kaggle.com/datasets/torrezmn/prices-py?select=super6).
 3. Configurar las conexiones de Power BI al dataset procesado.
 
 ### 📫 ¿Dónde encontrarme?
