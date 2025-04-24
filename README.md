@@ -30,3 +30,9 @@ Para acceder y trabajar con este proyecto, necesitas:
 1. Tener Power BI Desktop instalado.
 2. Descargar los datasets desde Kaggle (detallado en el archivo `datos.md`).
 3. Configurar las conexiones de Power BI al dataset procesado.
+
+### 📫 ¿Dónde encontrarme?
+
+- LinkedIn: [Lucas López](www.linkedin.com/in/lucaslopezcoluchi)
+- Email: [lucaslopezfx@gmail.com](lucaslopezfx@gmail.com)
+
